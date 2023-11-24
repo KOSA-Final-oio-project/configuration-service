@@ -12,4 +12,4 @@ spring:
       #  native:
       #    search-locations: file:///E:\KOSA\MSA\native-file-repo
        git:
-         uri: https://github.com/KOSA-Final-oio-project/configuration-service
+         uri: https://github.com/KOSA-Final-oio-project/config
